@@ -1,0 +1,23 @@
+
+span{
+    color: yellow;
+}
+h1{
+    color: white !important;
+}
+.video-con{
+    margin-top:51px;
+    height: 500px;
+    width: 100px;
+}
+.buity_text {
+    color: yellow !important;
+    font-size: 50px !important;
+    font-weight: normal !important;
+    line-height: 54px !important;
+    margin-bottom: 10px !important;
+    margin-top: 200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center;}
+
